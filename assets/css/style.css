@@ -1,2 +1,32 @@
 img {width:100%;}
 
+.mb-4 {
+    background-color: crimson;
+    border-style: solid;
+    padding: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: url('../images/oriental-tiles.png');
+}
+
+.portfolioImg {
+    width: 350px;
+}
+
+/* p {
+    color: white;
+} */
+
+.container {
+    background-color: chartreuse;
+    color: white;
+    margin-top: 10px;
+}
+
+#nickPic {
+    width: 30%;
+    float: left;
+    margin: 3%;
+}
