@@ -1,32 +1,43 @@
-img {width:100%;}
+img {width:100%;} 
 
 .mb-4 {
-    background-color: crimson;
+    background-color: white;
     border-style: solid;
     padding: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 body {
-    background-image: url('../images/oriental-tiles.png');
+    background-image: url('../images/rain.jpg');
+    
+}
+
+.white-box {
+    margin: 30px;
+}
+.container {
+    background-color: white;
+    color: black;
+    padding-bottom: 10px;
+ 
 }
 
 .portfolioImg {
-    width: 350px;
+  margin-bottom: 20px;
+} 
+
+ p {
+   
 }
 
-/* p {
-    color: white;
-} */
-
-.container {
-    background-color: chartreuse;
-    color: white;
-    margin-top: 10px;
-}
 
 #nickPic {
-    width: 30%;
+    width: 200px;
     float: left;
-    margin: 3%;
+    margin-right: 20px;
+  
+}
+
+.navbar {
+    margin-bottom: 20px;
 }
