@@ -9,6 +9,7 @@ img {width:100%;}
 
 body {
     background-image: url('../images/rain.jpg');
+    font-family: Arial, Helvetica, sans-serif;
     
 }
 
@@ -40,4 +41,10 @@ body {
 
 .navbar {
     margin-bottom: 20px;
+    
+}
+
+.fontcolor {
+    color: #4aaaa5; 
+
 }
